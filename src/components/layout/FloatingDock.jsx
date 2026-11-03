@@ -70,3 +70,4 @@ export function FloatingDock({ onShowToast }) {
     </div>
   );
 }
+

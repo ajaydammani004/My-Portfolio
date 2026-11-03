@@ -378,3 +378,4 @@ export function ContactSection({ onShowToast }) {
     </section>
   );
 }
+

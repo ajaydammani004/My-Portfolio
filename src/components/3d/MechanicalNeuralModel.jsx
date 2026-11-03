@@ -393,3 +393,4 @@ export function MechanicalNeuralModel({
     </group>
   );
 }
+

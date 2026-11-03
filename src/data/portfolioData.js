@@ -250,3 +250,4 @@ export const experienceTimeline = [
     skills: ["SolidWorks", "AutoCAD", "Finite Element Analysis", "Kinematics", "IoT Telemetry", "Thermodynamics"]
   }
 ];
+
